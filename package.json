@@ -1,0 +1,24 @@
+{
+  "name": "zad3",
+  "version": "1.0.0",
+  "description": "Nauka z npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szczyrbaw/Kodilla-mod-1.git"
+  },
+  "author": "Wojciech Szczyrba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szczyrbaw/Kodilla-mod-1/issues"
+  },
+  "homepage": "https://github.com/szczyrbaw/Kodilla-mod-1#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {}
+}

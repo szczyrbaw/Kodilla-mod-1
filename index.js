@@ -1,5 +1,5 @@
-var OSinfo = require('../modules/OSinfo');
-var time = require('../modules/TIMEinfo');
+var OSinfo = require('./modules/OSinfo');
+var time = require('./modules/TIMEinfo');
 
 //OSinfo.print();
 
@@ -21,7 +21,7 @@ process.stdin.on('readable', function() {
                 process.stdout.write('Node version:\n');
                 process.stdout.write(process.versions.node);
                 break;
-            case '/getOSinfo':
+            case '/p':
                 OSinfo.print();
                 break;
             default: 
