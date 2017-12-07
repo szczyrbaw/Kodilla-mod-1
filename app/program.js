@@ -15,7 +15,7 @@ process.stdin.on('readable', function() {
                 break;
             case '/lang': 
                 process.stdout.write('System language:\n');
-                process.stdout.write(process.env.lang);
+                process.stdout.write(String(process.env.lang));
                 break;
             case '/ver':
                 process.stdout.write('Node version:\n');
