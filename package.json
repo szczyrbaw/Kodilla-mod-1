@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/szczyrbaw/Kodilla-mod-1#readme",
   "dependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "stat-mode": "^0.2.2"
   },
   "devDependencies": {}
 }

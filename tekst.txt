@@ -1,0 +1,5 @@
+
+A tak wygląda nowy tekst po zapisie!
+A tak wygląda nowy tekst po zapisie!
+Nazwy plików w folderze: OSinfo.js,TIMEinfo.js
+Nazwy plików w folderze: OSinfo.js,TIMEinfo.js
